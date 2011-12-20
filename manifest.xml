@@ -1,0 +1,15 @@
+<package>
+  <description brief="pathmessenger">
+
+     pathmessenger
+
+  </description>
+  <author>Benjamin Aschenbrenner</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pathmessenger</url>
+  <depend package="nav_msgs"/>
+
+</package>
+
+

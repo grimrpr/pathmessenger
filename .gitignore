@@ -1,0 +1,10 @@
+.[oa]
+*.cmake
+*.user
+*.cbg
+*.so
+bin/
+lib/
+*.*~
+.gitignore~
+qtcreator-build/
